@@ -48,6 +48,7 @@ flowchart LR
 - From a book/article? → 02 - Research
 - Ready for publishing? → 04 - Knowlege Sharing
 - No longer active? → 98 - Archives
+- Excalidraw or sketches? → _misc
 
 
 ## Knowledge Base Structure
@@ -121,7 +122,13 @@ flowchart LR
 
    <tr>
        <td><sup>_scripts</sup></td>
-       <td><sup>Automation</sup></td>
-       <td><sup>Helper scripts (e.g., tag formatting)</sup></td>
+       <td><sup>automation</sup></td>
+       <td><sup>helper scripts (e.g., tag formatting)</sup></td>
+   </tr>
+
+   <tr>
+       <td><sup>_misc</sup></td>
+       <td><sup>General artifacts</sup></td>
+       <td><sup>Drawings, temporary visuals, other stuff </sup></td>
    </tr>
 </table>
