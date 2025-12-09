@@ -9,16 +9,11 @@ aliases:
 tags:
   - template
   - draft
-updated: 2025-12-09T22:37
+updated: 2025-12-10T00:15
 created: 2025-12-07T14:44
 banner: https://picsum.photos/1600/400?random=3
 ---
 
-<!---
-#####################################################
-# TAGS
-#####################################################
---->
 <div align="center">
 
 ```dataviewjs
@@ -28,69 +23,63 @@ dv.view("_scripts/prettyfitags");
 </div>
 
 
-<!---
-#####################################################
-# Section-A
-#####################################################
---->
 ---
 <h2>
 <span style="color:blue">></span>
 1. Cel Draftu
 </h2>
 
-> Luźne skojarzenia, przeczucia, intuicje.  Bez cenzury, bez porządkowania.
+> [!tip]- Instrukcja
+> 
+> Po co ta notatka w ogóle powstała?
+> 
+> **Może to być:**
+> - myśl z głowy,
+> - cytat,
+> - problem,
+> - zdanie z książki,
+> - obserwacja z życia.
 
-- ..
-- ..
+Start here..
 
-<!---
-#####################################################
-# Section-B
-#####################################################
---->
 ---
 <h2>
 <span style="color:red">></span>
-1. Pytania / niewiadome
+2. Pytania / niewiadome
 </h2>
 
-> Czego jeszcze nie wiesz. Co wymaga sprawdzenia.
+> [!tip]- Instrukcja
+> 
+> - Brudna strefa myślenia. Bez cenzury. Bez porządkowania.  
+> - Tu **wolno się mylić**.
 
-- ..
-- ..
+Start here..
 
-<!---
-#####################################################
-# Section-C
-#####################################################
---->
 ---
 <h2>
 <span style="color:yellow">></span>
 3. Potencjalne kierunki rozwoju
 </h2>
 
-> Co to *może* być — jeszcze bez decyzji.
+> [!tip]- Instrukcja
+> 
+> - Czego jeszcze nie wiesz.  
+> - Co wymaga sprawdzenia, doczytania, przetestowania.
 
-- Czy to jest **mechanizm**?
-- Czy to jest **pattern**?
-- Czy to jest **obserwacja**?
-- Czy to jest **research**?
+Start here..
 
-<!---
-#####################################################
-# Section-D
-#####################################################
---->
 ---
 <h2>
 <span style="color:green">></span>
 4. Materiał do wydobycia
 </h2>
 
-> Co realnie da się z tego „wydestylować” później.
+> [!tip]- Instrukcja
+> 
+> To są **tymczasowe przypuszczenia**, nie prawdy.
+> 
+> - Być może…
+> - Możliwe, że…
+> - Intuicyjnie wygląda na to, że…
 
-- Fakty
-- Obserwacje
-- Tezy do przyszłych *permanent notes*
+Start here..
