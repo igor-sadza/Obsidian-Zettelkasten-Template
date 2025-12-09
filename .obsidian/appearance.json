@@ -1,0 +1,7 @@
+{
+  "theme": "moonstone",
+  "nativeMenus": true,
+  "enabledCssSnippets": [
+    "misc"
+  ]
+}

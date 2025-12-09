@@ -1,0 +1,15 @@
+{
+  "dateFormat": "yyyy-MM-dd'T'HH:mm",
+  "enableCreateTime": true,
+  "headerUpdated": "updated",
+  "headerCreated": "created",
+  "minMinutesBetweenSaves": 1,
+  "ignoreGlobalFolder": [],
+  "ignoreCreatedFolder": [],
+  "enableExperimentalHash": false,
+  "fileHashMap": {
+    "99 - Templates/template - develop.md": "7945b0176276925318d96f46bd2276d42960ca222f20559c869aba6027d1ea89",
+    "99 - Templates/template - draft.md": "7fd42d63aeae9c8b3ac070049a4f3fa125784627d5fa24ddb222ba2a96c52bbe",
+    "99 - Templates/template - research.md": "a7d43d726b8dcb5ae62d145c6239d8683dbe7588cbdbf57a3554e4357e966bff"
+  }
+}

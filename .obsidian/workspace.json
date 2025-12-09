@@ -1,0 +1,314 @@
+{
+  "main": {
+    "id": "018ad8dafd09ab4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3df229c5da5133e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06d13da1a6f7c66a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99 - Templates/template - research.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "template - research"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f5fae1147e8cd1bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42af4dc557133b99",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "1d69e163ae46eb88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99 - Templates/template - research.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "template - research"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "06f5a441a6577aad",
+    "type": "split",
+    "children": [
+      {
+        "id": "89f31b68261146d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79f36e8ae45a8516",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0a40ce00bec78adb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:zettelkasten",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "00722d4bc62750b1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 443.5
+  },
+  "right": {
+    "id": "d42048507fb88bf4",
+    "type": "split",
+    "children": [
+      {
+        "id": "17c39edd26f40d75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76f7a210f3c12448",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "99 - Templates/template - research.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for template - research"
+            }
+          },
+          {
+            "id": "2e0d3f9f9c4190f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Projects/Metal/Project Tracker.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Project Tracker"
+            }
+          },
+          {
+            "id": "4545e29703ce82a3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1f81eb20912574b2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "626f16669a9b487e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Projects/Metal/Project Tracker.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Project Tracker"
+            }
+          },
+          {
+            "id": "fa8b666130573645",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "d1363365f3a5513e",
+            "type": "leaf",
+            "state": {
+              "type": "view-count",
+              "state": {},
+              "icon": "eye",
+              "title": "View count"
+            }
+          },
+          {
+            "id": "3559f5b05680eaff",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "99 - Templates/template - research.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for template - research"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-projects:Open projects": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "0a40ce00bec78adb",
+  "lastOpenFiles": [
+    "99 - Templates/template - index.md",
+    "99 - Templates/template - research.md",
+    "99 - Templates/template - draft.md",
+    "99 - Templates/template -  research (dirty).md",
+    "99 - Templates/template - develop.md",
+    "_scripts/prettyfitags.js",
+    "_scripts/showtags.js",
+    "_scripts",
+    "Untitled.md",
+    "Untitled 1.md",
+    "WebSocket Client Skeleton.md",
+    "Backpressure.md",
+    "GPU Operator.md",
+    "02 - Research/FinOps/FinOps - OpenCost a OSS cost monitoring for cloud native environments.md",
+    "02 - Research/Zettelkasten/Zettelkasten - Obsidian Templates.md",
+    "00 - Drafts/Golang/Go - Goroutines i concurrency.md",
+    "00 - Drafts/Golang/Go - Interfaces - pokaż co potrafisz.md",
+    "00 - Drafts/Golang/Go - Kanały jako mechanizmy komunikacji.md",
+    "00 - Drafts/JavaScript/JavaScript - Podstawy.md",
+    "02 - Research/WebSocket/WebSocket - Gorilla library overview.md",
+    "Untitled.base",
+    "96 - Images/pasted file.png",
+    "99 - Templates",
+    "98 - Archives",
+    "97 - Indexes",
+    "96 - Images",
+    "05 - Other/Projects/Metal",
+    "05 - Other/Projects",
+    "02 - Research/GPU/GPU - Using Nvidia GPU with k3s (blog).md",
+    "00 - Drafts/Golang/WebSocket/Go - WebSocket - Wzorzec read & write pumps.md",
+    "00 - Drafts/Golang/WebSocket/Go - WebSocket - Struktura klienta.md",
+    "Zettelkasten/99 - Templates/develop.md",
+    "Zettelkasten1/00 - Drafts/Golang/WebSocket/Go - WebSocket - Wzorzec read & write pumps.md",
+    "Zettelkasten1/00 - Drafts/Golang/WebSocket/Go - WebSocket - Struktura klienta.md",
+    "Zettelkasten1/00 - Drafts/Golang/Go - Kanały jako mechanizmy komunikacji.md",
+    "Zettelkasten1/00 - Drafts/Golang/Go - Interfaces - pokaż co potrafisz.md",
+    "Zettelkasten1/96 - Images/pasted file.png",
+    "Archive/Miscellaneous.canvas",
+    "Zettelkasten/96 - Images/Pasted image 20251208001939.png",
+    "Obsidian/Attachements/pasted file 1.png",
+    "Obsidian/Attachements/pasted file.png",
+    "Obsidian/Zettelkasten/Untitled.canvas",
+    "Obsidian/Attachements/Pasted Image 20251207131534_204.png",
+    "Obsidian/Metadata/Excalidraw/Pasted Image 20251207131225_574.png",
+    "Pasted Image 20251207131110_673.png",
+    "Pasted Image 20251207130900_086.png",
+    "Obsidian/Projects/Anetka/Canvas.canvas",
+    "Obsidian/Miscellaneous.canvas",
+    "Obsidian/Projects/Metal/Canvas.canvas",
+    "Obsidian/Projects/Bot/Canvas.canvas",
+    "Archive/Projects/Metal/Canvas.canvas",
+    "Archive/Projects/Bot/Canvas.canvas",
+    "Archive/Projects/Anetka/Canvas.canvas"
+  ]
+}

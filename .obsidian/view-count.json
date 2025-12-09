@@ -1,0 +1,1031 @@
+{
+  "items": [
+    {
+      "path": "99 - Templates/template - develop.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 141,
+      "openLogs": [
+        {
+          "timestampMillis": 1765267164238
+        },
+        {
+          "timestampMillis": 1765267257493
+        },
+        {
+          "timestampMillis": 1765267265444
+        },
+        {
+          "timestampMillis": 1765267417158
+        },
+        {
+          "timestampMillis": 1765267420277
+        },
+        {
+          "timestampMillis": 1765267845521
+        },
+        {
+          "timestampMillis": 1765289836864
+        },
+        {
+          "timestampMillis": 1765289846546
+        },
+        {
+          "timestampMillis": 1765289951791
+        },
+        {
+          "timestampMillis": 1765289960976
+        },
+        {
+          "timestampMillis": 1765289964886
+        },
+        {
+          "timestampMillis": 1765290000006
+        },
+        {
+          "timestampMillis": 1765290007948
+        },
+        {
+          "timestampMillis": 1765290009844
+        },
+        {
+          "timestampMillis": 1765290012026
+        },
+        {
+          "timestampMillis": 1765290013165
+        },
+        {
+          "timestampMillis": 1765290014155
+        },
+        {
+          "timestampMillis": 1765290015768
+        },
+        {
+          "timestampMillis": 1765290020769
+        },
+        {
+          "timestampMillis": 1765290024292
+        },
+        {
+          "timestampMillis": 1765290039401
+        },
+        {
+          "timestampMillis": 1765290045850
+        },
+        {
+          "timestampMillis": 1765290047597
+        },
+        {
+          "timestampMillis": 1765290989641
+        },
+        {
+          "timestampMillis": 1765291032594
+        },
+        {
+          "timestampMillis": 1765291137688
+        },
+        {
+          "timestampMillis": 1765291187286
+        },
+        {
+          "timestampMillis": 1765291190830
+        },
+        {
+          "timestampMillis": 1765291205758
+        },
+        {
+          "timestampMillis": 1765291208748
+        },
+        {
+          "timestampMillis": 1765291227476
+        },
+        {
+          "timestampMillis": 1765291231522
+        },
+        {
+          "timestampMillis": 1765291236864
+        },
+        {
+          "timestampMillis": 1765291238392
+        },
+        {
+          "timestampMillis": 1765291263744
+        },
+        {
+          "timestampMillis": 1765291304082
+        },
+        {
+          "timestampMillis": 1765291312651
+        },
+        {
+          "timestampMillis": 1765291369340
+        },
+        {
+          "timestampMillis": 1765291388102
+        },
+        {
+          "timestampMillis": 1765291420732
+        },
+        {
+          "timestampMillis": 1765291449650
+        },
+        {
+          "timestampMillis": 1765291467193
+        },
+        {
+          "timestampMillis": 1765291469639
+        },
+        {
+          "timestampMillis": 1765291478493
+        },
+        {
+          "timestampMillis": 1765291485884
+        },
+        {
+          "timestampMillis": 1765291569208
+        },
+        {
+          "timestampMillis": 1765291574185
+        },
+        {
+          "timestampMillis": 1765291596493
+        },
+        {
+          "timestampMillis": 1765291725142
+        },
+        {
+          "timestampMillis": 1765291836063
+        },
+        {
+          "timestampMillis": 1765291848536
+        },
+        {
+          "timestampMillis": 1765291855209
+        },
+        {
+          "timestampMillis": 1765291860016
+        },
+        {
+          "timestampMillis": 1765291984236
+        },
+        {
+          "timestampMillis": 1765291990419
+        },
+        {
+          "timestampMillis": 1765292060009
+        },
+        {
+          "timestampMillis": 1765292871546
+        },
+        {
+          "timestampMillis": 1765292873283
+        },
+        {
+          "timestampMillis": 1765292874210
+        },
+        {
+          "timestampMillis": 1765292878043
+        },
+        {
+          "timestampMillis": 1765292896344
+        },
+        {
+          "timestampMillis": 1765292902149
+        },
+        {
+          "timestampMillis": 1765293351743
+        },
+        {
+          "timestampMillis": 1765293512645
+        },
+        {
+          "timestampMillis": 1765293542537
+        },
+        {
+          "timestampMillis": 1765293568506
+        },
+        {
+          "timestampMillis": 1765293598740
+        },
+        {
+          "timestampMillis": 1765293618317
+        },
+        {
+          "timestampMillis": 1765293675873
+        },
+        {
+          "timestampMillis": 1765293742058
+        },
+        {
+          "timestampMillis": 1765293885006
+        },
+        {
+          "timestampMillis": 1765293977617
+        },
+        {
+          "timestampMillis": 1765294009894
+        },
+        {
+          "timestampMillis": 1765294045961
+        },
+        {
+          "timestampMillis": 1765294059381
+        },
+        {
+          "timestampMillis": 1765294093297
+        },
+        {
+          "timestampMillis": 1765294161269
+        },
+        {
+          "timestampMillis": 1765294179690
+        },
+        {
+          "timestampMillis": 1765294287766
+        },
+        {
+          "timestampMillis": 1765294330658
+        },
+        {
+          "timestampMillis": 1765294330778
+        },
+        {
+          "timestampMillis": 1765294391252
+        },
+        {
+          "timestampMillis": 1765294462176
+        },
+        {
+          "timestampMillis": 1765294530950
+        },
+        {
+          "timestampMillis": 1765294681815
+        },
+        {
+          "timestampMillis": 1765294690963
+        },
+        {
+          "timestampMillis": 1765294810493
+        },
+        {
+          "timestampMillis": 1765294811300
+        },
+        {
+          "timestampMillis": 1765294812091
+        },
+        {
+          "timestampMillis": 1765294813936
+        },
+        {
+          "timestampMillis": 1765294815357
+        },
+        {
+          "timestampMillis": 1765294826615
+        },
+        {
+          "timestampMillis": 1765294878407
+        },
+        {
+          "timestampMillis": 1765294973386
+        },
+        {
+          "timestampMillis": 1765294981699
+        },
+        {
+          "timestampMillis": 1765295069608
+        },
+        {
+          "timestampMillis": 1765295078556
+        },
+        {
+          "timestampMillis": 1765295106985
+        },
+        {
+          "timestampMillis": 1765295108402
+        },
+        {
+          "timestampMillis": 1765295113434
+        },
+        {
+          "timestampMillis": 1765295168702
+        },
+        {
+          "timestampMillis": 1765295255834
+        },
+        {
+          "timestampMillis": 1765295264032
+        },
+        {
+          "timestampMillis": 1765295269564
+        },
+        {
+          "timestampMillis": 1765295272928
+        },
+        {
+          "timestampMillis": 1765295426981
+        },
+        {
+          "timestampMillis": 1765295428977
+        },
+        {
+          "timestampMillis": 1765295434786
+        },
+        {
+          "timestampMillis": 1765295443086
+        },
+        {
+          "timestampMillis": 1765312722785
+        },
+        {
+          "timestampMillis": 1765312739056
+        },
+        {
+          "timestampMillis": 1765312790722
+        },
+        {
+          "timestampMillis": 1765312794995
+        },
+        {
+          "timestampMillis": 1765312826238
+        },
+        {
+          "timestampMillis": 1765312873501
+        },
+        {
+          "timestampMillis": 1765312920396
+        },
+        {
+          "timestampMillis": 1765312925145
+        },
+        {
+          "timestampMillis": 1765313050967
+        },
+        {
+          "timestampMillis": 1765313063810
+        },
+        {
+          "timestampMillis": 1765313075899
+        },
+        {
+          "timestampMillis": 1765313160845
+        },
+        {
+          "timestampMillis": 1765313169327
+        },
+        {
+          "timestampMillis": 1765313925500
+        },
+        {
+          "timestampMillis": 1765314079162
+        },
+        {
+          "timestampMillis": 1765315051223
+        },
+        {
+          "timestampMillis": 1765315101269
+        },
+        {
+          "timestampMillis": 1765315104087
+        },
+        {
+          "timestampMillis": 1765315137809
+        },
+        {
+          "timestampMillis": 1765315138175
+        },
+        {
+          "timestampMillis": 1765315138764
+        },
+        {
+          "timestampMillis": 1765315291459
+        },
+        {
+          "timestampMillis": 1765315292686
+        },
+        {
+          "timestampMillis": 1765315336977
+        },
+        {
+          "timestampMillis": 1765315360916
+        },
+        {
+          "timestampMillis": 1765315383112
+        },
+        {
+          "timestampMillis": 1765315513011
+        },
+        {
+          "timestampMillis": 1765315683605
+        },
+        {
+          "timestampMillis": 1765315856853
+        },
+        {
+          "timestampMillis": 1765315882648
+        },
+        {
+          "timestampMillis": 1765315887327
+        },
+        {
+          "timestampMillis": 1765316205889
+        }
+      ]
+    },
+    {
+      "path": "99 - Templates/template - draft.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 102,
+      "openLogs": [
+        {
+          "timestampMillis": 1765267191347
+        },
+        {
+          "timestampMillis": 1765267262788
+        },
+        {
+          "timestampMillis": 1765267264948
+        },
+        {
+          "timestampMillis": 1765289836440
+        },
+        {
+          "timestampMillis": 1765289843339
+        },
+        {
+          "timestampMillis": 1765289941724
+        },
+        {
+          "timestampMillis": 1765289958229
+        },
+        {
+          "timestampMillis": 1765289961733
+        },
+        {
+          "timestampMillis": 1765289964498
+        },
+        {
+          "timestampMillis": 1765289999629
+        },
+        {
+          "timestampMillis": 1765290007622
+        },
+        {
+          "timestampMillis": 1765290009603
+        },
+        {
+          "timestampMillis": 1765290011714
+        },
+        {
+          "timestampMillis": 1765290012782
+        },
+        {
+          "timestampMillis": 1765290013900
+        },
+        {
+          "timestampMillis": 1765290020358
+        },
+        {
+          "timestampMillis": 1765290023436
+        },
+        {
+          "timestampMillis": 1765290029440
+        },
+        {
+          "timestampMillis": 1765290038995
+        },
+        {
+          "timestampMillis": 1765290041125
+        },
+        {
+          "timestampMillis": 1765290046700
+        },
+        {
+          "timestampMillis": 1765290986389
+        },
+        {
+          "timestampMillis": 1765291027019
+        },
+        {
+          "timestampMillis": 1765291133467
+        },
+        {
+          "timestampMillis": 1765291139810
+        },
+        {
+          "timestampMillis": 1765291189018
+        },
+        {
+          "timestampMillis": 1765291191470
+        },
+        {
+          "timestampMillis": 1765291207259
+        },
+        {
+          "timestampMillis": 1765291208362
+        },
+        {
+          "timestampMillis": 1765291218995
+        },
+        {
+          "timestampMillis": 1765291228711
+        },
+        {
+          "timestampMillis": 1765291230388
+        },
+        {
+          "timestampMillis": 1765291235594
+        },
+        {
+          "timestampMillis": 1765291237640
+        },
+        {
+          "timestampMillis": 1765291292409
+        },
+        {
+          "timestampMillis": 1765291303413
+        },
+        {
+          "timestampMillis": 1765291311755
+        },
+        {
+          "timestampMillis": 1765291331621
+        },
+        {
+          "timestampMillis": 1765291383736
+        },
+        {
+          "timestampMillis": 1765291412342
+        },
+        {
+          "timestampMillis": 1765291468090
+        },
+        {
+          "timestampMillis": 1765291481550
+        },
+        {
+          "timestampMillis": 1765291485313
+        },
+        {
+          "timestampMillis": 1765291542807
+        },
+        {
+          "timestampMillis": 1765291568798
+        },
+        {
+          "timestampMillis": 1765291571547
+        },
+        {
+          "timestampMillis": 1765291577342
+        },
+        {
+          "timestampMillis": 1765291583175
+        },
+        {
+          "timestampMillis": 1765291651632
+        },
+        {
+          "timestampMillis": 1765291679104
+        },
+        {
+          "timestampMillis": 1765291681527
+        },
+        {
+          "timestampMillis": 1765291693290
+        },
+        {
+          "timestampMillis": 1765291695037
+        },
+        {
+          "timestampMillis": 1765291704907
+        },
+        {
+          "timestampMillis": 1765291712605
+        },
+        {
+          "timestampMillis": 1765291721452
+        },
+        {
+          "timestampMillis": 1765291819725
+        },
+        {
+          "timestampMillis": 1765291828423
+        },
+        {
+          "timestampMillis": 1765291845035
+        },
+        {
+          "timestampMillis": 1765291852415
+        },
+        {
+          "timestampMillis": 1765291854611
+        },
+        {
+          "timestampMillis": 1765291979043
+        },
+        {
+          "timestampMillis": 1765291988711
+        },
+        {
+          "timestampMillis": 1765292057056
+        },
+        {
+          "timestampMillis": 1765292075852
+        },
+        {
+          "timestampMillis": 1765292680308
+        },
+        {
+          "timestampMillis": 1765292872398
+        },
+        {
+          "timestampMillis": 1765292873848
+        },
+        {
+          "timestampMillis": 1765292885602
+        },
+        {
+          "timestampMillis": 1765292893894
+        },
+        {
+          "timestampMillis": 1765292897564
+        },
+        {
+          "timestampMillis": 1765292900183
+        },
+        {
+          "timestampMillis": 1765294811831
+        },
+        {
+          "timestampMillis": 1765294968733
+        },
+        {
+          "timestampMillis": 1765295403801
+        },
+        {
+          "timestampMillis": 1765295426314
+        },
+        {
+          "timestampMillis": 1765295430004
+        },
+        {
+          "timestampMillis": 1765295434106
+        },
+        {
+          "timestampMillis": 1765295437032
+        },
+        {
+          "timestampMillis": 1765312716292
+        },
+        {
+          "timestampMillis": 1765312720723
+        },
+        {
+          "timestampMillis": 1765312725078
+        },
+        {
+          "timestampMillis": 1765312736990
+        },
+        {
+          "timestampMillis": 1765312796093
+        },
+        {
+          "timestampMillis": 1765312864846
+        },
+        {
+          "timestampMillis": 1765312908751
+        },
+        {
+          "timestampMillis": 1765313065078
+        },
+        {
+          "timestampMillis": 1765313164616
+        },
+        {
+          "timestampMillis": 1765313924875
+        },
+        {
+          "timestampMillis": 1765314079957
+        },
+        {
+          "timestampMillis": 1765314250650
+        },
+        {
+          "timestampMillis": 1765315058595
+        },
+        {
+          "timestampMillis": 1765315101972
+        },
+        {
+          "timestampMillis": 1765315103738
+        },
+        {
+          "timestampMillis": 1765315875274
+        },
+        {
+          "timestampMillis": 1765315883815
+        },
+        {
+          "timestampMillis": 1765315897076
+        },
+        {
+          "timestampMillis": 1765315917261
+        },
+        {
+          "timestampMillis": 1765316077460
+        },
+        {
+          "timestampMillis": 1765316207131
+        },
+        {
+          "timestampMillis": 1765316222040
+        },
+        {
+          "timestampMillis": 1765316235572
+        }
+      ]
+    },
+    {
+      "path": "99 - Templates/template - research.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 89,
+      "openLogs": [
+        {
+          "timestampMillis": 1765267205909
+        },
+        {
+          "timestampMillis": 1765267224945
+        },
+        {
+          "timestampMillis": 1765267230155
+        },
+        {
+          "timestampMillis": 1765267264034
+        },
+        {
+          "timestampMillis": 1765289845214
+        },
+        {
+          "timestampMillis": 1765289949297
+        },
+        {
+          "timestampMillis": 1765289960524
+        },
+        {
+          "timestampMillis": 1765289962656
+        },
+        {
+          "timestampMillis": 1765290010511
+        },
+        {
+          "timestampMillis": 1765290035729
+        },
+        {
+          "timestampMillis": 1765290042784
+        },
+        {
+          "timestampMillis": 1765290988136
+        },
+        {
+          "timestampMillis": 1765291029174
+        },
+        {
+          "timestampMillis": 1765291233078
+        },
+        {
+          "timestampMillis": 1765291234822
+        },
+        {
+          "timestampMillis": 1765291276973
+        },
+        {
+          "timestampMillis": 1765291293503
+        },
+        {
+          "timestampMillis": 1765291301491
+        },
+        {
+          "timestampMillis": 1765291349740
+        },
+        {
+          "timestampMillis": 1765291371664
+        },
+        {
+          "timestampMillis": 1765291392312
+        },
+        {
+          "timestampMillis": 1765291415214
+        },
+        {
+          "timestampMillis": 1765291483219
+        },
+        {
+          "timestampMillis": 1765291483912
+        },
+        {
+          "timestampMillis": 1765291544975
+        },
+        {
+          "timestampMillis": 1765291579576
+        },
+        {
+          "timestampMillis": 1765291705901
+        },
+        {
+          "timestampMillis": 1765291720862
+        },
+        {
+          "timestampMillis": 1765291821434
+        },
+        {
+          "timestampMillis": 1765291839746
+        },
+        {
+          "timestampMillis": 1765291853414
+        },
+        {
+          "timestampMillis": 1765291981853
+        },
+        {
+          "timestampMillis": 1765292870068
+        },
+        {
+          "timestampMillis": 1765292889064
+        },
+        {
+          "timestampMillis": 1765292899041
+        },
+        {
+          "timestampMillis": 1765294251945
+        },
+        {
+          "timestampMillis": 1765294448310
+        },
+        {
+          "timestampMillis": 1765295167216
+        },
+        {
+          "timestampMillis": 1765295417327
+        },
+        {
+          "timestampMillis": 1765295430637
+        },
+        {
+          "timestampMillis": 1765295441274
+        },
+        {
+          "timestampMillis": 1765312718096
+        },
+        {
+          "timestampMillis": 1765312727606
+        },
+        {
+          "timestampMillis": 1765312798783
+        },
+        {
+          "timestampMillis": 1765312824479
+        },
+        {
+          "timestampMillis": 1765312868888
+        },
+        {
+          "timestampMillis": 1765312870769
+        },
+        {
+          "timestampMillis": 1765312912122
+        },
+        {
+          "timestampMillis": 1765313061954
+        },
+        {
+          "timestampMillis": 1765313077987
+        },
+        {
+          "timestampMillis": 1765313084263
+        },
+        {
+          "timestampMillis": 1765313165347
+        },
+        {
+          "timestampMillis": 1765313174941
+        },
+        {
+          "timestampMillis": 1765313181244
+        },
+        {
+          "timestampMillis": 1765313822928
+        },
+        {
+          "timestampMillis": 1765313833011
+        },
+        {
+          "timestampMillis": 1765313836604
+        },
+        {
+          "timestampMillis": 1765313867796
+        },
+        {
+          "timestampMillis": 1765314081668
+        },
+        {
+          "timestampMillis": 1765314251691
+        },
+        {
+          "timestampMillis": 1765314486556
+        },
+        {
+          "timestampMillis": 1765314978232
+        },
+        {
+          "timestampMillis": 1765314992292
+        },
+        {
+          "timestampMillis": 1765315008752
+        },
+        {
+          "timestampMillis": 1765315068895
+        },
+        {
+          "timestampMillis": 1765315077168
+        },
+        {
+          "timestampMillis": 1765315097076
+        },
+        {
+          "timestampMillis": 1765315102656
+        },
+        {
+          "timestampMillis": 1765315108514
+        },
+        {
+          "timestampMillis": 1765315130216
+        },
+        {
+          "timestampMillis": 1765315139142
+        },
+        {
+          "timestampMillis": 1765315143806
+        },
+        {
+          "timestampMillis": 1765315269811
+        },
+        {
+          "timestampMillis": 1765315272021
+        },
+        {
+          "timestampMillis": 1765315273503
+        },
+        {
+          "timestampMillis": 1765315283249
+        },
+        {
+          "timestampMillis": 1765315332767
+        },
+        {
+          "timestampMillis": 1765315356978
+        },
+        {
+          "timestampMillis": 1765315379550
+        },
+        {
+          "timestampMillis": 1765315505413
+        },
+        {
+          "timestampMillis": 1765315853971
+        },
+        {
+          "timestampMillis": 1765315885908
+        },
+        {
+          "timestampMillis": 1765315915103
+        },
+        {
+          "timestampMillis": 1765316212274
+        },
+        {
+          "timestampMillis": 1765316216837
+        },
+        {
+          "timestampMillis": 1765316236904
+        },
+        {
+          "timestampMillis": 1765316238478
+        },
+        {
+          "timestampMillis": 1765316324403
+        },
+        {
+          "timestampMillis": 1765316324953
+        }
+      ]
+    },
+    {
+      "path": "02 - Research/FinOps/FinOps - OpenCost a OSS cost monitoring for cloud native environments.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1765267693643
+        }
+      ]
+    }
+  ]
+}
