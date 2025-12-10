@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 - Templates/template - draft.md",
+                "file": "99 - Templates/template - research.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "template - draft"
+              "title": "template - research"
             }
           }
         ],
@@ -235,13 +235,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "79f36e8ae45a8516",
+  "active": "404bb40485aec528",
   "lastOpenFiles": [
-    "README.md",
-    "99 - Templates/template - develop.md",
-    "99 - Templates/template - research.md",
     "99 - Templates/template - fleeting.md",
     "99 - Templates/template - draft.md",
+    "99 - Templates/template - develop.md",
+    "README.md",
+    "99 - Templates/template - research.md",
     "Obsidian/Metadata/Excalidraw/Drawing 2025-12-10 01.37.04.excalidraw.md",
     "_misc/excalidraw/Drawing 2025-12-10 01.39.54.excalidraw.md",
     "_misc/excalidraw",

@@ -3,7 +3,7 @@
     {
       "path": "99 - Templates/template - develop.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 160,
+      "totalTimesOpened": 161,
       "openLogs": [
         {
           "timestampMillis": 1765267164238
@@ -484,13 +484,16 @@
         },
         {
           "timestampMillis": 1765328858014
+        },
+        {
+          "timestampMillis": 1765359548110
         }
       ]
     },
     {
       "path": "99 - Templates/template - draft.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 124,
+      "totalTimesOpened": 125,
       "openLogs": [
         {
           "timestampMillis": 1765267191347
@@ -863,13 +866,16 @@
         },
         {
           "timestampMillis": 1765328831536
+        },
+        {
+          "timestampMillis": 1765359549324
         }
       ]
     },
     {
       "path": "99 - Templates/template - research.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 102,
+      "totalTimesOpened": 103,
       "openLogs": [
         {
           "timestampMillis": 1765267205909
@@ -1176,6 +1182,9 @@
         },
         {
           "timestampMillis": 1765328852477
+        },
+        {
+          "timestampMillis": 1765359550182
         }
       ]
     },
@@ -1286,7 +1295,7 @@
     {
       "path": "99 - Templates/template - fleeting.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 9,
+      "totalTimesOpened": 10,
       "openLogs": [
         {
           "timestampMillis": 1765328608828
@@ -1314,6 +1323,9 @@
         },
         {
           "timestampMillis": 1765328834981
+        },
+        {
+          "timestampMillis": 1765359549658
         }
       ]
     }

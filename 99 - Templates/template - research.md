@@ -1,4 +1,7 @@
 ---
+banner: "https://picsum.photos/1600/400?random=5"
+---
+---
 type: template
 status: template
 domain:
