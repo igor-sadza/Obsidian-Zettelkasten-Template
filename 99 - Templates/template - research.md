@@ -1,7 +1,6 @@
 ---
-banner: "https://picsum.photos/1600/400?random=5"
----
----
+banner_url: "https://picsum.photos/1600/400?random=4"
+banner_x: "0.5"
 type: template
 status: template
 domain:
@@ -13,8 +12,6 @@ tags:
   - template
   - research
   - zettelkasten
-banner: https://picsum.photos/1600/400?random=5
-banner_x: 0.42541
 ---
 
 <div align="center">
