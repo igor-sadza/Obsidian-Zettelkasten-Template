@@ -205,8 +205,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -215,8 +215,8 @@
             "state": {
               "type": "view-count",
               "state": {},
-              "icon": "eye",
-              "title": "View count"
+              "icon": "lucide-ghost",
+              "title": "view-count"
             }
           },
           {
@@ -249,10 +249,7 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian42-brat:BRAT": false,
-      "obsidian-projects:Open projects": false,
-      "templater-obsidian:Templater": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "0a40ce00bec78adb",
