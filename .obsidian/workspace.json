@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "75b56dd0ab98179d",
+            "id": "404bb40485aec528",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -235,8 +235,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "79f36e8ae45a8516",
+  "active": "404bb40485aec528",
   "lastOpenFiles": [
+    "README.md",
     "99 - Templates/template - draft.md",
     "Obsidian/Metadata/Excalidraw/Drawing 2025-12-10 01.37.04.excalidraw.md",
     "_misc/excalidraw/Drawing 2025-12-10 01.39.54.excalidraw.md",
@@ -247,7 +248,6 @@
     "Obsidian",
     "99 - Templates/template - research.md",
     "99 - Templates/template - develop.md",
-    "README.md",
     "99 - Templates/template - index.md",
     "99 - Templates/template -  research (dirty).md",
     "_scripts/prettyfitags.js",
