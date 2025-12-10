@@ -3,7 +3,7 @@
 
 A Zettelkasten (German: 'slipbox', plural Zettelkästen) or card file consists of small items of information stored on Zetteln (German: 'slips'), paper slips or cards, that may be linked to each other through subject headings or other metadata such as numbers and tags.
 
-## Daily Workflow (5-Minute Rule)
+## > Daily Workflow (5-Minute Rule)
 
 1. Capture ideas in **03 - Fleeting**
 2. Process fleeting notes into **00 - Drafts**
@@ -12,7 +12,7 @@ A Zettelkasten (German: 'slipbox', plural Zettelkästen) or card file consists o
 5. Archive inactive material in **98 - Archives**
 6. Update **97 - Indexes** weekly
 
-## Note Flow
+## > Note Flow
 
 ```mermaid
 flowchart LR
@@ -31,7 +31,7 @@ flowchart LR
     I -.-> R
 ```
 
-## System Rules
+## > System Rules
 
 - One idea per note
 - Always link related notes
@@ -39,7 +39,7 @@ flowchart LR
 - Only polished work goes into Knowledge Sharing
 - Archives are read-only
 
-## Quick Usage Guide
+## > Quick Usage Guide
 
 - Random thought? → 03 - Fleeting
 - Messy first idea? → 00 - Drafts
@@ -50,7 +50,7 @@ flowchart LR
 - Excalidraw or sketches? → _misc
 
 
-## Knowledge Base Structure
+## > Knowledge Base Structure
 
 <table>
    <tr>
@@ -132,7 +132,7 @@ flowchart LR
    </tr>
 </table>
 
-## Quick Start 
+## > Quick Start 
 
 Follow these steps to connect this knowledge base to your local Obsidian setup ([ref](https://forum.obsidian.md/t/the-easiest-way-to-setup-obsidian-git-to-backup-notes/51429)).
 
