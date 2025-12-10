@@ -1,7 +1,8 @@
 ---
-banner: "https://picsum.photos/1600/400?random=99"
-banner_x: "0.5"
+banner_url: "https://picsum.photos/1600/400?random=99"
+banner_x: 0.5
 ---
+
 
 ---
 # Zettelkasten Knowledge Base
