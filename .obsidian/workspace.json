@@ -27,7 +27,7 @@
               "state": {
                 "file": "README.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "README"
@@ -235,7 +235,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "404bb40485aec528",
+  "active": "79f36e8ae45a8516",
   "lastOpenFiles": [
     "README.md",
     "99 - Templates/template - draft.md",
