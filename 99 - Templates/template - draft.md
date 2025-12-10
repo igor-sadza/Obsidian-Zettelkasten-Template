@@ -22,7 +22,6 @@ dv.view("_scripts/prettyfitags");
 
 </div>
 
-
 ---
 <h2>
 <span style="color:blue">></span>
