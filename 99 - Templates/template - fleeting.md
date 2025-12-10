@@ -10,8 +10,6 @@ tags:
   - template
   - fleeting
   - zettelkasten
-updated: 2025-12-10T02:07
-created: 2025-12-07T14:44
 banner: https://picsum.photos/1600/400?random=1
 banner_x: 0.42541
 ---
