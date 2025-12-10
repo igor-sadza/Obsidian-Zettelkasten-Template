@@ -39,7 +39,6 @@ flowchart LR
 - Only polished work goes into Knowledge Sharing
 - Archives are read-only
 
-
 ## Quick Usage Guide
 
 - Random thought? → 03 - Fleeting
@@ -132,3 +131,20 @@ flowchart LR
        <td><sup>Drawings, temporary visuals, other stuff </sup></td>
    </tr>
 </table>
+
+## Quick Start 
+
+Follow these steps to connect this knowledge base to your local Obsidian setup ([ref](https://forum.obsidian.md/t/the-easiest-way-to-setup-obsidian-git-to-backup-notes/51429)).
+
+1. Generate a new GitHub Personal Access Token (PAT)
+   - Go to: GitHub → Settings → Developer Settings → Personal Access Tokens
+
+2. Clone the repository using HTTPS with your token
+    
+    ```sh
+    git clone https://<PERSONAL_ACCESS_TOKEN>@github.com/<USERNAME>/<REPO>.git
+    ```
+
+3. Open Obsidian
+   - Click **Open folder as vault**
+   - Select the cloned repository folder
