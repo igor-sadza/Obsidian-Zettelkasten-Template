@@ -8,8 +8,9 @@
   "ignoreCreatedFolder": [],
   "enableExperimentalHash": false,
   "fileHashMap": {
-    "99 - Templates/template - develop.md": "7945b0176276925318d96f46bd2276d42960ca222f20559c869aba6027d1ea89",
-    "99 - Templates/template - draft.md": "7fd42d63aeae9c8b3ac070049a4f3fa125784627d5fa24ddb222ba2a96c52bbe",
-    "99 - Templates/template - research.md": "a7d43d726b8dcb5ae62d145c6239d8683dbe7588cbdbf57a3554e4357e966bff"
+    "99 - Templates/template - develop.md": "169e3beb04b18486ab519510f8e7d1c149847f47a5e57846fd4e28371ce19b93",
+    "99 - Templates/template - draft.md": "1c263061bd13431116d8f47b5b8514bfd74f7c8fda68be4d726e8febb87546b6",
+    "99 - Templates/template - research.md": "a7d43d726b8dcb5ae62d145c6239d8683dbe7588cbdbf57a3554e4357e966bff",
+    "README.md": "97098b719fdf8dc94627ffbf041251a14c9a288d7d4ff584f366085aa004b845"
   }
 }

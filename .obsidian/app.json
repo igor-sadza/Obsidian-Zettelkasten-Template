@@ -1,5 +1,7 @@
 {
   "promptDelete": false,
   "attachmentFolderPath": "96 - Images",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "defaultViewMode": "preview",
+  "livePreview": true
 }

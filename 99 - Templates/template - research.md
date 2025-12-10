@@ -12,7 +12,7 @@ tags:
   - zettelkasten
 updated: 2025-12-10T00:09
 created: 2025-12-07T14:44
-banner: https://picsum.photos/1600/400?random=5
+banner: "https://picsum.photos/1600/400?random=5"
 banner_x: 0.42541
 ---
 

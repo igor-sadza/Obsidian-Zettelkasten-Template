@@ -1,3 +1,9 @@
+---
+created: 2025-12-10T01:12
+updated: 2025-12-10T01:41
+banner: https://picsum.photos/1600/400?random=99
+banner_x: 0.42541
+---
 # Zettelkasten Knowledge Base
 <img src="https://api.dicebear.com/9.x/notionists-neutral/svg?seed=Zettelkasten" align="left" width="7%" height="auto"/>
 
@@ -49,7 +55,6 @@ flowchart LR
 - No longer active? → 98 - Archives
 - Excalidraw or sketches? → _misc
 
-
 ## > Knowledge Base Structure
 
 <table>
@@ -58,73 +63,61 @@ flowchart LR
        <td><strong>Purpose</strong></td>
        <td><strong>What Goes Here</strong></td>
    </tr>
-
    <tr>
        <td><sup>00 - Drafts</sup></td>
        <td><sup>Raw idea capture</sup></td>
        <td><sup>Unfinished thoughts, early writing, brain dumps</sup></td>
    </tr>
-
    <tr>
        <td><sup>01 - Develop</sup></td>
        <td><sup>Idea refinement</sup></td>
        <td><sup>Expanded notes, structured thinking, knowledge building</sup></td>
    </tr>
-
    <tr>
        <td><sup>02 - Research</sup></td>
        <td><sup>Source notes</sup></td>
        <td><sup>Book notes, articles, studies, references</sup></td>
    </tr>
-
    <tr>
        <td><sup>03 - Fleeting</sup></td>
        <td><sup>Temporary notes</sup></td>
        <td><sup>Quick thoughts, daily notes, reminders</sup></td>
    </tr>
-
    <tr>
        <td><sup>04 - Knowledge Sharing</sup></td>
        <td><sup>Final output</sup></td>
        <td><sup>Blog posts, tutorials, documentation, presentations</sup></td>
    </tr>
-
    <tr>
        <td><sup>05 - Other</sup></td>
        <td><sup>Miscellaneous</sup></td>
        <td><sup>Logs, experiments, uncategorized content</sup></td>
    </tr>
-
    <tr>
        <td><sup>96 - Images</sup></td>
        <td><sup>Media storage</sup></td>
        <td><sup>Diagrams, screenshots, illustrations</sup></td>
    </tr>
-
    <tr>
        <td><sup>97 - Indexes</sup></td>
        <td><sup>Navigation</sup></td>
        <td><sup>Maps of content, topic hubs</sup></td>
    </tr>
-
    <tr>
        <td><sup>98 - Archives</sup></td>
        <td><sup>Long-term storage</sup></td>
        <td><sup>Old projects, deprecated notes</sup></td>
    </tr>
-
    <tr>
        <td><sup>99 - Templates</sup></td>
        <td><sup>Note standards</sup></td>
        <td><sup>Reusable templates for notes</sup></td>
    </tr>
-
    <tr>
        <td><sup>_scripts</sup></td>
        <td><sup>automation</sup></td>
        <td><sup>helper scripts (e.g., tag formatting)</sup></td>
    </tr>
-
    <tr>
        <td><sup>_misc</sup></td>
        <td><sup>General artifacts</sup></td>
@@ -136,15 +129,6 @@ flowchart LR
 
 Follow these steps to connect this knowledge base to your local Obsidian setup ([ref](https://forum.obsidian.md/t/the-easiest-way-to-setup-obsidian-git-to-backup-notes/51429)).
 
-1. Generate a new GitHub Personal Access Token (PAT)
-   - Go to: GitHub → Settings → Developer Settings → Personal Access Tokens
-
-2. Clone the repository using HTTPS with your token
-    
-    ```sh
-    git clone https://<PERSONAL_ACCESS_TOKEN>@github.com/<USERNAME>/<REPO>.git
-    ```
-
-3. Open Obsidian
-   - Click **Open folder as vault**
-   - Select the cloned repository folder
+1. Generate a new GitHub Personal Access Token (PAT) ([ref](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token-classic))
+2. Clone the repository using HTTPS with your token ([ref](https://gist.github.com/magickatt/07ff02068f8cd2e4e558f20358b2082c))
+3. Select cloned repository as Obsidian Vault

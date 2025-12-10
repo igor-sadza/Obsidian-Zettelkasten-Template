@@ -1,5 +1,5 @@
 ---
-type: draft
+type: template
 status: processing
 domain:
   - zettelkasten
@@ -9,9 +9,11 @@ aliases:
 tags:
   - template
   - draft
-updated: 2025-12-10T00:15
+  - zettelkasten
+updated: 2025-12-10T01:41
 created: 2025-12-07T14:44
 banner: https://picsum.photos/1600/400?random=3
+banner_y: 0.5
 ---
 
 <div align="center">

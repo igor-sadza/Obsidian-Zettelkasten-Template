@@ -1,34 +1,14 @@
 {
   "main": {
-    "id": "018ad8dafd09ab4e",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "b3df229c5da5133e",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "06d13da1a6f7c66a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99 - Templates/template - research.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "template - research"
-            }
-          }
-        ]
-      },
-      {
-        "id": "f5fae1147e8cd1bf",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "42af4dc557133b99",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -40,17 +20,17 @@
             }
           },
           {
-            "id": "1d69e163ae46eb88",
+            "id": "75b56dd0ab98179d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 - Templates/template - research.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "template - research"
+              "title": "README"
             }
           }
         ],
@@ -107,8 +87,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -241,6 +220,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -249,16 +229,27 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian42-brat:BRAT": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "0a40ce00bec78adb",
+  "active": "79f36e8ae45a8516",
   "lastOpenFiles": [
-    "99 - Templates/template - index.md",
-    "99 - Templates/template - research.md",
     "99 - Templates/template - draft.md",
-    "99 - Templates/template -  research (dirty).md",
+    "Obsidian/Metadata/Excalidraw/Drawing 2025-12-10 01.37.04.excalidraw.md",
+    "_misc/excalidraw/Drawing 2025-12-10 01.39.54.excalidraw.md",
+    "_misc/excalidraw",
+    "_misc/Drawing 2025-12-10 01.37.54.excalidraw.md",
+    "Obsidian/Metadata/Excalidraw",
+    "Obsidian/Metadata",
+    "Obsidian",
+    "99 - Templates/template - research.md",
     "99 - Templates/template - develop.md",
+    "README.md",
+    "99 - Templates/template - index.md",
+    "99 - Templates/template -  research (dirty).md",
     "_scripts/prettyfitags.js",
     "_scripts/showtags.js",
     "_scripts",
@@ -278,18 +269,11 @@
     "96 - Images/pasted file.png",
     "99 - Templates",
     "98 - Archives",
-    "97 - Indexes",
-    "96 - Images",
-    "05 - Other/Projects/Metal",
-    "05 - Other/Projects",
     "02 - Research/GPU/GPU - Using Nvidia GPU with k3s (blog).md",
     "00 - Drafts/Golang/WebSocket/Go - WebSocket - Wzorzec read & write pumps.md",
     "00 - Drafts/Golang/WebSocket/Go - WebSocket - Struktura klienta.md",
     "Zettelkasten/99 - Templates/develop.md",
     "Zettelkasten1/00 - Drafts/Golang/WebSocket/Go - WebSocket - Wzorzec read & write pumps.md",
-    "Zettelkasten1/00 - Drafts/Golang/WebSocket/Go - WebSocket - Struktura klienta.md",
-    "Zettelkasten1/00 - Drafts/Golang/Go - Kanały jako mechanizmy komunikacji.md",
-    "Zettelkasten1/00 - Drafts/Golang/Go - Interfaces - pokaż co potrafisz.md",
     "Zettelkasten1/96 - Images/pasted file.png",
     "Archive/Miscellaneous.canvas",
     "Zettelkasten/96 - Images/Pasted image 20251208001939.png",

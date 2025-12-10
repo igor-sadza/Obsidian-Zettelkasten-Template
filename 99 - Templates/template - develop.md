@@ -1,5 +1,5 @@
 ---
-type: permanent
+type: template
 status: processing
 domain:
   - zettelkasten
@@ -9,7 +9,7 @@ tags:
   - template
   - develop
   - zettelkasten
-updated: 2025-12-10T00:09
+updated: 2025-12-10T01:36
 created: 2025-12-07T14:44
 banner: https://picsum.photos/1600/400?random=1
 banner_x: 0.42541
