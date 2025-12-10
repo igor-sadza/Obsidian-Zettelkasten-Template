@@ -8,9 +8,10 @@
   "ignoreCreatedFolder": [],
   "enableExperimentalHash": false,
   "fileHashMap": {
-    "99 - Templates/template - develop.md": "169e3beb04b18486ab519510f8e7d1c149847f47a5e57846fd4e28371ce19b93",
-    "99 - Templates/template - draft.md": "1c263061bd13431116d8f47b5b8514bfd74f7c8fda68be4d726e8febb87546b6",
-    "99 - Templates/template - research.md": "a7d43d726b8dcb5ae62d145c6239d8683dbe7588cbdbf57a3554e4357e966bff",
-    "README.md": "18cf9937f75f5815332598bf9dc729396ca58b1ddcf939a0454a81cfe1c84c2a"
+    "99 - Templates/template - develop.md": "54ef4bd31cc2d984a68f1bd459d46a2b2a7edf512b90769234154fea23cf2c20",
+    "99 - Templates/template - research.md": "c9983033d487b34c1e350b52109daa8733f4a8a7e7c123813d2dd1c78860e0e4",
+    "README.md": "a23f556ca9304fd7b5ae928c68b508af7710c2df9f44c9392f1d17c8ad3d749b",
+    "99 - Templates/template - fleeting.md": "89c27cb59ba326c63edd34c79040cc3aa4a1c9596fd867ce19ad613216ea24a3",
+    "99 - Templates/template - draft.md": "727ceb7d04da1f6bbdb0294c90aa8958be1e965a10a9c563bb98b8515b6b304b"
   }
 }

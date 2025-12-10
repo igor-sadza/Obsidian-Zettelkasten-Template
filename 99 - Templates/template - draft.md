@@ -1,6 +1,6 @@
 ---
 type: template
-status: processing
+status: template
 domain:
   - zettelkasten
 source: []
@@ -10,7 +10,7 @@ tags:
   - template
   - draft
   - zettelkasten
-updated: 2025-12-10T01:41
+updated: 2025-12-10T02:07
 created: 2025-12-07T14:44
 banner: https://picsum.photos/1600/400?random=3
 banner_y: 0.5
@@ -28,7 +28,7 @@ dv.view("_scripts/prettyfitags");
 ---
 <h2>
 <span style="color:blue">></span>
-1. Cel Draftu
+1. Draft Goal
 </h2>
 
 > [!tip]- Instrukcja
@@ -59,21 +59,8 @@ Start here..
 
 ---
 <h2>
-<span style="color:yellow">></span>
-3. Potencjalne kierunki rozwoju
-</h2>
-
-> [!tip]- Instrukcja
-> 
-> - Czego jeszcze nie wiesz.  
-> - Co wymaga sprawdzenia, doczytania, przetestowania.
-
-Start here..
-
----
-<h2>
 <span style="color:green">></span>
-4. Materiał do wydobycia
+3. Potencjalne kierunki rozwoju
 </h2>
 
 > [!tip]- Instrukcja

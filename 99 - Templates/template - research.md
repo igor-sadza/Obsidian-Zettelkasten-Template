@@ -1,6 +1,6 @@
 ---
 type: template
-status: processing
+status: template
 domain:
   - zettelkasten
 source: []
@@ -10,9 +10,9 @@ tags:
   - template
   - research
   - zettelkasten
-updated: 2025-12-10T00:09
+updated: 2025-12-10T02:07
 created: 2025-12-07T14:44
-banner: "https://picsum.photos/1600/400?random=5"
+banner: https://picsum.photos/1600/400?random=5
 banner_x: 0.42541
 ---
 

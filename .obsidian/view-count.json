@@ -3,7 +3,7 @@
     {
       "path": "99 - Templates/template - develop.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 147,
+      "totalTimesOpened": 160,
       "openLogs": [
         {
           "timestampMillis": 1765267164238
@@ -445,13 +445,52 @@
         },
         {
           "timestampMillis": 1765326992096
+        },
+        {
+          "timestampMillis": 1765328549057
+        },
+        {
+          "timestampMillis": 1765328552631
+        },
+        {
+          "timestampMillis": 1765328605707
+        },
+        {
+          "timestampMillis": 1765328607212
+        },
+        {
+          "timestampMillis": 1765328710779
+        },
+        {
+          "timestampMillis": 1765328721881
+        },
+        {
+          "timestampMillis": 1765328726598
+        },
+        {
+          "timestampMillis": 1765328753289
+        },
+        {
+          "timestampMillis": 1765328788247
+        },
+        {
+          "timestampMillis": 1765328813497
+        },
+        {
+          "timestampMillis": 1765328818233
+        },
+        {
+          "timestampMillis": 1765328825389
+        },
+        {
+          "timestampMillis": 1765328858014
         }
       ]
     },
     {
       "path": "99 - Templates/template - draft.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 111,
+      "totalTimesOpened": 124,
       "openLogs": [
         {
           "timestampMillis": 1765267191347
@@ -785,13 +824,52 @@
         },
         {
           "timestampMillis": 1765327295867
+        },
+        {
+          "timestampMillis": 1765328445636
+        },
+        {
+          "timestampMillis": 1765328553181
+        },
+        {
+          "timestampMillis": 1765328606528
+        },
+        {
+          "timestampMillis": 1765328710423
+        },
+        {
+          "timestampMillis": 1765328712166
+        },
+        {
+          "timestampMillis": 1765328720797
+        },
+        {
+          "timestampMillis": 1765328723716
+        },
+        {
+          "timestampMillis": 1765328738267
+        },
+        {
+          "timestampMillis": 1765328752787
+        },
+        {
+          "timestampMillis": 1765328813790
+        },
+        {
+          "timestampMillis": 1765328819006
+        },
+        {
+          "timestampMillis": 1765328824373
+        },
+        {
+          "timestampMillis": 1765328831536
         }
       ]
     },
     {
       "path": "99 - Templates/template - research.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 97,
+      "totalTimesOpened": 102,
       "openLogs": [
         {
           "timestampMillis": 1765267205909
@@ -1083,6 +1161,21 @@
         },
         {
           "timestampMillis": 1765326996368
+        },
+        {
+          "timestampMillis": 1765328550716
+        },
+        {
+          "timestampMillis": 1765328713540
+        },
+        {
+          "timestampMillis": 1765328750918
+        },
+        {
+          "timestampMillis": 1765328822075
+        },
+        {
+          "timestampMillis": 1765328852477
         }
       ]
     },
@@ -1099,7 +1192,7 @@
     {
       "path": "README.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 25,
+      "totalTimesOpened": 29,
       "openLogs": [
         {
           "timestampMillis": 1765325598005
@@ -1175,6 +1268,52 @@
         },
         {
           "timestampMillis": 1765327673933
+        },
+        {
+          "timestampMillis": 1765327791704
+        },
+        {
+          "timestampMillis": 1765328767863
+        },
+        {
+          "timestampMillis": 1765328806767
+        },
+        {
+          "timestampMillis": 1765328860629
+        }
+      ]
+    },
+    {
+      "path": "99 - Templates/template - fleeting.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 9,
+      "openLogs": [
+        {
+          "timestampMillis": 1765328608828
+        },
+        {
+          "timestampMillis": 1765328623521
+        },
+        {
+          "timestampMillis": 1765328718762
+        },
+        {
+          "timestampMillis": 1765328740260
+        },
+        {
+          "timestampMillis": 1765328752428
+        },
+        {
+          "timestampMillis": 1765328790212
+        },
+        {
+          "timestampMillis": 1765328820693
+        },
+        {
+          "timestampMillis": 1765328823317
+        },
+        {
+          "timestampMillis": 1765328834981
         }
       ]
     }
