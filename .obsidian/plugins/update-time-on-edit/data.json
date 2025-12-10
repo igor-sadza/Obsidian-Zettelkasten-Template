@@ -7,7 +7,9 @@
   "ignoreGlobalFolder": [
     "99 - Templates"
   ],
-  "ignoreCreatedFolder": [],
+  "ignoreCreatedFolder": [
+    "99 - Templates"
+  ],
   "enableExperimentalHash": false,
   "fileHashMap": {
   }
