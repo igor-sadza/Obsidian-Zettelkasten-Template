@@ -3,7 +3,7 @@
     {
       "path": "99 - Templates/template - develop.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 167,
+      "totalTimesOpened": 174,
       "openLogs": [
         {
           "timestampMillis": 1765267164238
@@ -505,13 +505,34 @@
         },
         {
           "timestampMillis": 1765363460205
+        },
+        {
+          "timestampMillis": 1765363529835
+        },
+        {
+          "timestampMillis": 1765363531999
+        },
+        {
+          "timestampMillis": 1765363536314
+        },
+        {
+          "timestampMillis": 1765363545766
+        },
+        {
+          "timestampMillis": 1765363553826
+        },
+        {
+          "timestampMillis": 1765363560806
+        },
+        {
+          "timestampMillis": 1765363570054
         }
       ]
     },
     {
       "path": "99 - Templates/template - draft.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 133,
+      "totalTimesOpened": 137,
       "openLogs": [
         {
           "timestampMillis": 1765267191347
@@ -911,13 +932,25 @@
         },
         {
           "timestampMillis": 1765363459452
+        },
+        {
+          "timestampMillis": 1765363532588
+        },
+        {
+          "timestampMillis": 1765363535849
+        },
+        {
+          "timestampMillis": 1765363542171
+        },
+        {
+          "timestampMillis": 1765363578379
         }
       ]
     },
     {
       "path": "99 - Templates/template - research.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 112,
+      "totalTimesOpened": 118,
       "openLogs": [
         {
           "timestampMillis": 1765267205909
@@ -1254,6 +1287,24 @@
         },
         {
           "timestampMillis": 1765363458707
+        },
+        {
+          "timestampMillis": 1765363534093
+        },
+        {
+          "timestampMillis": 1765363535320
+        },
+        {
+          "timestampMillis": 1765363543005
+        },
+        {
+          "timestampMillis": 1765363544317
+        },
+        {
+          "timestampMillis": 1765363544982
+        },
+        {
+          "timestampMillis": 1765363593182
         }
       ]
     },
@@ -1270,7 +1321,7 @@
     {
       "path": "README.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 35,
+      "totalTimesOpened": 40,
       "openLogs": [
         {
           "timestampMillis": 1765325598005
@@ -1376,13 +1427,28 @@
         },
         {
           "timestampMillis": 1765363457337
+        },
+        {
+          "timestampMillis": 1765363530225
+        },
+        {
+          "timestampMillis": 1765363534846
+        },
+        {
+          "timestampMillis": 1765363544734
+        },
+        {
+          "timestampMillis": 1765363552368
+        },
+        {
+          "timestampMillis": 1765363556435
         }
       ]
     },
     {
       "path": "99 - Templates/template - fleeting.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 18,
+      "totalTimesOpened": 24,
       "openLogs": [
         {
           "timestampMillis": 1765328608828
@@ -1437,6 +1503,24 @@
         },
         {
           "timestampMillis": 1765363459066
+        },
+        {
+          "timestampMillis": 1765363533603
+        },
+        {
+          "timestampMillis": 1765363535549
+        },
+        {
+          "timestampMillis": 1765363542644
+        },
+        {
+          "timestampMillis": 1765363543834
+        },
+        {
+          "timestampMillis": 1765363545449
+        },
+        {
+          "timestampMillis": 1765363586213
         }
       ]
     }

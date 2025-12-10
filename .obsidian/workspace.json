@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 - Templates/template - develop.md",
+                "file": "99 - Templates/template - research.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "template - develop"
+              "title": "template - research"
             }
           }
         ]
@@ -223,12 +223,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "99 - Templates/template - draft.md",
     "99 - Templates/template - fleeting.md",
-    "99 - Templates/template - research.md",
-    "README.md",
-    "New Text Document.txt",
+    "99 - Templates/template - draft.md",
     "99 - Templates/template - develop.md",
+    "_scripts/dataviewjs",
+    "README.md",
+    "99 - Templates/template - research.md",
+    "New Text Document.txt",
     "Obsidian/Metadata/Excalidraw/Drawing 2025-12-10 01.37.04.excalidraw.md",
     "_misc/excalidraw/Drawing 2025-12-10 01.39.54.excalidraw.md",
     "_misc/excalidraw",
@@ -238,7 +239,7 @@
     "Obsidian",
     "99 - Templates/template - index.md",
     "99 - Templates/template -  research (dirty).md",
-    "_scripts/prettyfitags.js",
+    "_scripts/dataviewjs/prettyfitags.js",
     "_scripts/showtags.js",
     "_scripts",
     "Untitled.md",
@@ -255,7 +256,6 @@
     "02 - Research/WebSocket/WebSocket - Gorilla library overview.md",
     "Untitled.base",
     "96 - Images/pasted file.png",
-    "99 - Templates",
     "02 - Research/GPU/GPU - Using Nvidia GPU with k3s (blog).md",
     "00 - Drafts/Golang/WebSocket/Go - WebSocket - Wzorzec read & write pumps.md",
     "00 - Drafts/Golang/WebSocket/Go - WebSocket - Struktura klienta.md",

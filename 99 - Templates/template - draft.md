@@ -17,7 +17,7 @@ tags:
 <div align="center">
 
 ```dataviewjs
-dv.view("_scripts/prettyfitags");
+dv.view("_scripts/dataviewjs/prettyfitags");
 ```
 
 </div>
