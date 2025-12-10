@@ -10,8 +10,6 @@ tags:
   - template
   - draft
   - zettelkasten
-updated: 2025-12-10T02:07
-created: 2025-12-07T14:44
 banner: https://picsum.photos/1600/400?random=3
 banner_y: 0.5
 ---
