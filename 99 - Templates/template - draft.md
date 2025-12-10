@@ -1,20 +1,17 @@
 ---
-banner: "https://picsum.photos/1600/400?random=3"
----
----
+banner_url: "https://picsum.photos/1600/400?random=1"
+banner_x: 0.5
 type: template
 status: template
 domain:
   - zettelkasten
 source: []
 aliases:
-  - draft-template
+  - develop-template
 tags:
   - template
-  - draft
+  - develop
   - zettelkasten
-banner: https://picsum.photos/1600/400?random=3
-banner_y: 0.5
 ---
 
 <div align="center">
