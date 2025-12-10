@@ -1,5 +1,5 @@
 ---
-banner_url: "https://picsum.photos/1600/400?random=4"
+banner: "https://picsum.photos/1600/400?random=4"
 banner_x: "0.5"
 type: template
 status: template
