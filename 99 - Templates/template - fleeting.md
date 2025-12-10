@@ -13,6 +13,7 @@ tags:
   - fleeting
   - zettelkasten
 ---
+
 <div align="center">
 
 ```dataviewjs
@@ -33,4 +34,3 @@ dv.view("_scripts/prettyfitags");
 > - Zero sekcji, zero instrukcji, zero myślenia.
 
 Start here..
-
