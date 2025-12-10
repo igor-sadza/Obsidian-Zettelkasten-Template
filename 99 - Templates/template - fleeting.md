@@ -1,6 +1,6 @@
 ---
 banner: "https://picsum.photos/1600/400?random=2"
-banner_x: 0.5
+banner_x: "0.5"
 type: template
 status: template
 domain:
@@ -34,3 +34,4 @@ dv.view("_scripts/prettyfitags");
 > - Zero sekcji, zero instrukcji, zero myślenia.
 
 Start here..
+

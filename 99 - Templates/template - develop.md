@@ -1,6 +1,6 @@
 ---
 banner: "https://picsum.photos/1600/400?random=3"
-banner_x: 0.5
+banner_x: "0.5"
 type: template
 status: template
 domain:
